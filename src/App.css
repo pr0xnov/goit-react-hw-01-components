@@ -1,0 +1,12 @@
+.App {
+  display: flex;
+  justify-content: center;
+}
+
+.partOne,
+.partTwo,
+.partThree,
+.partFour {
+  padding: 50px;
+  text-align: center;
+}
